@@ -2,7 +2,7 @@
 
 지하철에서 목적지 2정거장 전에 알람을 울려주는 Android 앱.
 
-**Save your day. / 놓치지 않습니다**
+**Save your day. / 꼭 내려드릴게요**
 
 - [개인정보처리방침](https://anmini-cpu.github.io/subwaybell/)
 
